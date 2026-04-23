@@ -5,7 +5,7 @@ This project is a gesture-controlled virtual musical instrument developed using 
 
 It detects hand movements through webcam and converts gestures into MIDI musical notes and instrument controls.
 
----
+----
 
 ## Features
 - Real-time Hand Tracking
