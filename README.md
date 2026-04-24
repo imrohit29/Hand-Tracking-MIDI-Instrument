@@ -1,4 +1,6 @@
 # Hand Tracking MIDI Instrument 🎵✋
+## Live Demo
+[View Project Demo](https://imrohit29.github.io/Hand-Tracking-MIDI-Instrument/)
 
 ## Overview
 Hand Tracking MIDI Instrument is a computer vision based project that allows users to control and play musical instruments using hand gestures through a webcam.
